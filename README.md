@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://youtu.be/LeFPPDrV8ag)
   - [osTicket: Ticket Lifecycle Examples](https://youtu.be/4p4PQjgl4SU)
 - <b>Microsoft Azure</b>
-  - [Understanding DNS](https://github.com/joshmadakorcc/configure-ad)
+  - [Understanding/Practicing DNS](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
